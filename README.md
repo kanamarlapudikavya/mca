@@ -43,7 +43,8 @@ sno | sname
 2 | chinnu
 
 :angry:
+
 what is use of github
 - [x] to store data on cloud
-- [] to delete data
-- [] none
+- [ ] to delete data
+- [ ] none
