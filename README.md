@@ -37,3 +37,7 @@ head
 
 :blush:
 :smiley:
+sno | sname
+----|------
+1 | kavya
+2 | chinnu
