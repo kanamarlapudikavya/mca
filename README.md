@@ -39,8 +39,8 @@ head
 :smiley:
 sno | sname
 ----|------
-1 | kavya
-2 | chinnu
+1 | kk
+2 | ch
 
 :angry:
 
