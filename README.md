@@ -48,3 +48,9 @@ what is use of github
 - [x] to store data on cloud
 - [ ] to delete data
 - [ ] none
+ 
+ ````````` python
+ def add(a,b):
+   print("addition of a and b is")
+ add(3,4)
+``````````
