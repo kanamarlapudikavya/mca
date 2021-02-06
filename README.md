@@ -44,6 +44,6 @@ sno | sname
 
 :angry:
 what is use of github
-[ ] to store data on cloud
-[ ] to delete data
-[ ] none
+- [x] to store data on cloud
+- [] to delete data
+- [] none
