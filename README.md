@@ -54,3 +54,12 @@ what is use of github
    print("addition of a and b is")
  add(3,4)
 ``````````
+
+````````c
+# include<stdio.h>
+# include<conio.h>
+void main()
+{
+   printf("hello");
+ }
+ ````````
